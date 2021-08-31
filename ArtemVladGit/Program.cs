@@ -10,6 +10,7 @@ namespace ArtemVladGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello wolrd!");
         }
     }
 }
